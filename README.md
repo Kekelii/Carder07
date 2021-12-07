@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Carder07
-- 👀 I’m interested in every thing programming
+- 👋 Hi, I’m Courage
+- 👀 I’m interested in every thing programming and Computers
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on any project
 - 📫 reach me on my email Courageagbenyegah234@gmail.com
